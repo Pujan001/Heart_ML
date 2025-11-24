@@ -4,7 +4,7 @@ This project analyzes a heart disease dataset and builds multiple machine-learni
 
 Project Structure
 ps.ipynb                 # Main Jupyter Notebook
-heart_Dataset.csv        # Dataset used for training and evaluation
+heart_Dataset.csv        # Dataset
 
 1️. Dataset Loading
 Loads heart_Dataset.csv using pandas.
